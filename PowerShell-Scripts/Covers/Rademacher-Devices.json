@@ -1,0 +1,150 @@
+{
+    "error_description": "OK",
+    "error_code": 0,
+    "payload": {
+        "devices": [{
+            "capabilities": [{
+                    "name": "PROD_CODE_DEVICE_LOC",
+                    "value": "35000123",
+                    "read_only": false
+                },
+                {
+                    "name": "REACHABILITY_EVT",
+                    "value": "true",
+                    "read_only": true,
+                    "timestamp": 1639813223
+                },
+                {
+                    "name": "NAME_DEVICE_LOC",
+                    "value": "Fenster Wohnzimmer Sofa",
+                    "read_only": false
+                },
+                {
+                    "name": "INTF_ID_DEVICE_LOC",
+                    "value": "3",
+                    "read_only": false
+                },
+                {
+                    "name": "WIND_PROG_ACTIVE_EVT",
+                    "value": "false",
+                    "read_only": true,
+                    "timestamp": 1639813223
+                },
+                {
+                    "name": "AUTO_MODE_CFG",
+                    "value": "true",
+                    "read_only": false
+                },
+                {
+                    "name": "DAWN_AUTO_CFG",
+                    "value": "false",
+                    "read_only": false
+                },
+                {
+                    "name": "ID_DEVICE_LOC",
+                    "value": "1",
+                    "read_only": false
+                },
+                {
+                    "name": "SUN_AUTO_CFG",
+                    "value": "false",
+                    "read_only": false
+                },
+                {
+                    "name": "VIS_DEVICE_LOC",
+                    "value": "true",
+                    "read_only": false
+                },
+                {
+                    "name": "WIND_AUTO_CFG",
+                    "value": "false",
+                    "read_only": false
+                },
+                {
+                    "name": "BLOCK_DET_EVT",
+                    "value": "false",
+                    "read_only": true,
+                    "timestamp": 1639813223
+                },
+                {
+                    "name": "DESCR_DEVICE_LOC",
+                    "value": "Wohnzimmerfenster Sofa",
+                    "read_only": false
+                },
+                {
+                    "name": "CURR_POS_CFG",
+                    "value": "0",
+                    "min_value": "0",
+                    "max_value": "100",
+                    "step_size": "1",
+                    "read_only": false
+                },
+                {
+                    "name": "PROT_ID_DEVICE_LOC",
+                    "value": "425d0e_x",
+                    "read_only": false
+                },
+                {
+                    "name": "CURR_SLAT_POS_CFG",
+                    "value": "0",
+                    "min_value": "0",
+                    "max_value": "100",
+                    "step_size": "1",
+                    "read_only": false
+                },
+                {
+                    "name": "ICONSET_LOC",
+                    "value": "iconset8",
+                    "read_only": false
+                },
+                {
+                    "name": "JAL_MODE_CFG",
+                    "value": "false",
+                    "read_only": false
+                },
+                {
+                    "name": "DEVICE_TYPE_LOC",
+                    "value": "2",
+                    "read_only": false
+                },
+                {
+                    "name": "ICONSET_INV_LOC",
+                    "value": "false",
+                    "read_only": false
+                },
+                {
+                    "name": "VOICE_CONTROLLED_LOC",
+                    "value": "",
+                    "read_only": false
+                },
+                {
+                    "name": "DUSK_AUTO_CFG",
+                    "value": "false",
+                    "read_only": false
+                },
+                {
+                    "name": "SUN_PROG_ACTIVE_EVT",
+                    "value": "false",
+                    "read_only": true,
+                    "timestamp": 1639813223
+                },
+                {
+                    "name": "RAIN_PROG_ACTIVE_EVT",
+                    "value": "false",
+                    "read_only": true,
+                    "timestamp": 1639813223
+                },
+                {
+                    "name": "RAIN_AUTO_CFG",
+                    "value": "false",
+                    "read_only": false
+                },
+                {
+                    "name": "TIME_AUTO_CFG",
+                    "value": "true",
+                    "read_only": false
+                }
+            ]
+        }]
+    }
+}
